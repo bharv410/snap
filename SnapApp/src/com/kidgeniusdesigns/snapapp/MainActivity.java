@@ -48,7 +48,6 @@ public class MainActivity extends Activity {
 	private ArrayList<String> shords;
 	
 	 
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
